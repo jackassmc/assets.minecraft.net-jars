@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="Minecraft-JSONs">
+  <review>
+    <reviewtitle>usefull for archivers but, not for users</reviewtitle>
+    <reviewbody>the jsons don't specify the urls of the clients therefore people don't know where to download the file nor the launcher. It may look under Minecraft.Download but, in the future of the launcher that domain will no longer exist. It certainly won't look under assets.minecraft.net. So if you provided the url and checksums it would be even better maybe under a separate domain.</reviewbody>
+    <stars>2</stars>
+    <reviewer>nullsector76 76</reviewer>
+    <reviewdate>2021-01-11 08:57:36</reviewdate>
+    <createdate>2021-01-11 08:57:36</createdate>
+    <reviewer_itemname>@nullsector76_76</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>1</num_reviews>
+    <avg_rating>2.00</avg_rating>
+  </info>
+</reviews>
